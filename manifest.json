@@ -1,0 +1,19 @@
+{
+  "name": "Course Label",
+  "version": "1.0",
+  "description": "Label courses in Ninova",
+  "permissions": ["activeTab", "webNavigation", "<all_urls>"],
+  "options_page": "options.html",
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "icons": {
+    "16": "images/icons16.png",
+    "32": "images/icons32.png",
+    "48": "images/icons48.png",
+    "128": "images/icons128.png"
+  },
+  "manifest_version": 2
+}
