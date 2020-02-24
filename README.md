@@ -16,6 +16,9 @@ This extension is not live in the Chrome Web Store, but you can download the rep
 - Click **Load unpacked** button on top left.
 - Select the folder you have extracted.
 
+# Output
+![Side Menu of Ninova](/images/example.png)
+
 # License
 The MIT License (MIT)
 
