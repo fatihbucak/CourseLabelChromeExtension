@@ -1,7 +1,8 @@
 # Course Label Chrome Extension
 
-This extension is created to show course names on the side menu of ninova.
+This extension is created to show course names on the side menu of Ninova.
 
+<img src="/images/example.png" width="188" height="548">
 
 # Requirements
 Google Chrome
