@@ -39,7 +39,7 @@ chrome.runtime.onInstalled.addListener(function() {
 
     }, {
         url: [{
-            urlMatches: 'https://ninova.itu.edu.tr/Kampus1'
+            urlMatches: 'https://ninova.itu.edu.tr'
         }]
     });
 });
