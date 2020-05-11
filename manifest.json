@@ -4,10 +4,12 @@
   "description": "Label courses in Ninova",
   "permissions": ["activeTab", "webNavigation", "<all_urls>"],
   "options_page": "options.html",
-  "background": {
-    "scripts": ["background.js"]
-  },
-
+    "content_scripts": [
+    {
+      "matches": ["https://ninova.itu.edu.tr/*"],
+      "js": ["background.js"]
+    }
+  ],
   "icons": {
     "16": "images/icons16.png",
     "32": "images/icons32.png",
