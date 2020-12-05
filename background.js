@@ -12,4 +12,15 @@ if (leftSide.length > 0) {
             courses[i].innerHTML = courseName;
         }
     }
+    var i, j;
+	var unwanteds = ["BLG 335E", "BLG 336E", "BLG 354E", "BLG 433E", "BLG 453E", "BLG 500", "DAN 301"];
+	var leftSide = document.getElementsByClassName("menuErisimAgaci");
+
+	for (i=0; i<leftSide.item(0).getElementsByTagName("li").length; i++){
+		for(j = 0; j<unwanteds.length; j++){
+			if(leftSide.item(0).getElementsByTagName("li").item(i).innerHTML.includes(unwanteds[j])){
+				leftSide.item(0).getElementsByTagName("li").item(i).remove();
+			}
+		}
+	}
 }
