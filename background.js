@@ -13,7 +13,9 @@ if (leftSide.length > 0) {
         }
     }
     var i, j;
-	var unwanteds = ["BLG 335E", "BLG 336E", "BLG 354E", "BLG 433E", "BLG 453E", "BLG 500", "DAN 301"];
+	//var unwanteds = ["BLG 335E", "BLG 336E", "BLG 354E", "BLG 433E", "BLG 453E", "BLG 500", "DAN 301"];
+	//unwanteds array contains the code of the courses which should be hidden for you
+	var unwanteds = [];
 	var leftSide = document.getElementsByClassName("menuErisimAgaci");
 
 	for (i=0; i<leftSide.item(0).getElementsByTagName("li").length; i++){
