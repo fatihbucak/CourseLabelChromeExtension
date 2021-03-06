@@ -1,9 +1,10 @@
 {
   "name": "Course Label",
-  "version": "1.0",
+  "version": "1.0.0",
+  "author": "Fatih Mustafa Bucak",
   "description": "Label courses in Ninova",
-  "permissions": ["activeTab", "webNavigation", "<all_urls>"],
-  "options_page": "options.html",
+  "permissions": [],
+  "options_page": "info.html",
     "content_scripts": [
     {
       "matches": ["https://ninova.itu.edu.tr/*"],
