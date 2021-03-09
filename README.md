@@ -2,7 +2,7 @@
 
 This extension is created to show course names on the side menu of Ninova.
 
-<a href="https://chrome.google.com/webstore/detail/course-label/cgljhidiioodhdhfgnociobnpchejdng">
+<a target="_blank" href="https://chrome.google.com/webstore/detail/course-label/cgljhidiioodhdhfgnociobnpchejdng">
   <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/cgljhidiioodhdhfgnociobnpchejdng">
 </a>
 <br>
