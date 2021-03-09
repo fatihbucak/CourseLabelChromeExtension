@@ -25,6 +25,10 @@ This extension is live in the Chrome Web Store and the link is given above, also
 - Click **Load unpacked** button on top left.
 - Select the folder you have extracted.
 
+# Acknowledgments
+
+I would like to express my special thanks of gratitude to my friends (Ahmet Semih Uçan and Fatih Altınpınar) who gave me the golden ideas and helps to do this wonderful project.
+
 # License
 The MIT License (MIT)
 
