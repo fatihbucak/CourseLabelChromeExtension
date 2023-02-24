@@ -8,6 +8,9 @@ This extension is created to show course names on the side menu of Ninova.
 <a target="_blank" href="https://chrome.google.com/webstore/detail/course-label/cgljhidiioodhdhfgnociobnpchejdng">
   <img alt="Chrome Web Store" src="https://img.shields.io/chrome-web-store/v/cgljhidiioodhdhfgnociobnpchejdng">
 </a>
+<a target="_blank" href="https://addons.mozilla.org/en-US/firefox/addon/course-label-ninova/">
+  <img alt="Chrome Web Store" src="https://img.shields.io/amo/v/course-label-ninova">
+</a>
 <br>
 <img src="/images/screen1.png" width="750" height="454">
 <br>
