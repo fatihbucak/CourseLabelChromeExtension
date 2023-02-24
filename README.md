@@ -22,7 +22,7 @@ This extension is created to show course names on the side menu of Ninova.
 # Usage
 
 ## Firefox
-The .xpi file is released and can be installed temporarily to Firefox browsers. 
+The .xpi file is released and can be installed from (Firefox Addons)[https://addons.mozilla.org/en-US/firefox/addon/course-label-ninova/]. Check releases for the latest release.
 
 ## Chrome
 This extension is live in the Chrome Web Store and the link is given above, also you can download the repository and install it in your Chrome Browser.
