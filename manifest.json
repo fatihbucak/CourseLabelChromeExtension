@@ -1,6 +1,6 @@
 {
   "name": "Course Label",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "Fatih Mustafa Bucak",
   "description": "Label courses in Ninova",
   "permissions": [],
@@ -17,5 +17,5 @@
     "48": "images/icons48.png",
     "128": "images/icons128.png"
   },
-  "manifest_version": 2
+  "manifest_version": 3
 }
